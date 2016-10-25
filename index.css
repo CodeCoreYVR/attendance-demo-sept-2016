@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+
+  font-family: 'Comic Sans MS', sans-serif;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
