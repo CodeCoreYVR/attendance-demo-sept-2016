@@ -10,3 +10,10 @@ ul {
   padding: 0;
   list-style: none;
 }
+
+h1 {
+  display: inline-block;
+  border-right: medium solid DeepPink;
+  border-radius: 0.1em;
+  font-weight: 100;
+}
