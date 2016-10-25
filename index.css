@@ -2,8 +2,11 @@ body {
   margin: 0;
   width: 100vw;
   height: 100vh;
-
   font-family: Helvetica, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
 }
 
 ul {
@@ -13,5 +16,16 @@ ul {
 }
 
 h1 {
+  font-weight: 100;
+}
+
+h1 {
+  margin: 0;
+  background-color: Turquoise;
+  color: Red;
+  padding: 0.25em;
+  border-radius: 0.1em;
+  display: inline-block;
+  border-right: medium solid DeepPink;
   font-weight: 100;
 }
