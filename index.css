@@ -21,4 +21,7 @@ h1 {
   color: Red;
   padding: 0.25em;
   border-radius: 0.1em;
+  display: inline-block;
+  border-right: medium solid DeepPink;
+  font-weight: 100;
 }
