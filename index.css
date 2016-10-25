@@ -3,10 +3,15 @@ body {
   width: 100vw;
   height: 100vh;
 
-  font-family: 'Comic Sans MS', sans-serif;
+  font-family: Helvetica, sans-serif;
 }
 
 ul {
   padding: 0;
-  list-style: none;
+  padding-left: 1.5em;
+  list-style: lower-roman;
+}
+
+h1 {
+  font-weight: 100;
 }
